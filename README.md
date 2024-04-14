@@ -16,7 +16,7 @@
 
 ![image](https://github.com/ar5803-dotcom/Lottery_Smart_Contract/assets/92009451/36289734-dca3-4df9-a827-97e9f50bc827)
 
-# you can see the blue pointer address of the winner having ~101 ehter balance 
+# you can see the blue pointer address of the winner having ~101 ether balance 
 
 ![image](https://github.com/ar5803-dotcom/Lottery_Smart_Contract/assets/92009451/7b41cac7-50ab-46be-b386-14b9dbfe8902)
 
